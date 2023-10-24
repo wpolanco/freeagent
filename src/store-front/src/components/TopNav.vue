@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="logo">
-      <a href="/">Mariner Gadget Supplies</a>
+      <a href="/">Mariner Gadget Supplies - Customers Portal</a>
     </div>
     <button class="hamburger" @click="toggleNav">
       <span class="hamburger-icon"></span>
