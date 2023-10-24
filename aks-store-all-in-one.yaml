@@ -252,7 +252,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
       - name: product-service
-        image: ghcr.io/azure-samples/aks-store-demo/product-service:latest
+        image: docker.io/wpolanco/product-service:latest
         ports:
         - containerPort: 3002
         resources:
@@ -294,7 +294,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
       - name: store-front
-        image: ghcr.io/azure-samples/aks-store-demo/store-front:latest
+        image: docker.io/wpolanco/store-front:latest
         ports:
         - containerPort: 8080
           name: store-front
@@ -341,7 +341,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
       - name: store-admin
-        image: ghcr.io/azure-samples/aks-store-demo/store-admin:latest
+        image: docker.io/wpolanco/store-admin:latest
         ports:
         - containerPort: 8081
           name: store-admin
