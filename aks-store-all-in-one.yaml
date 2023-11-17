@@ -306,10 +306,10 @@ spec:
         resources:
           requests:
             cpu: 1m
-            memory: 200Mi
+            memory: 20Mi
           limits:
-            cpu: 1000m
-            memory: 512Mi
+            cpu: 100m
+            memory: 64Mi
 ---
 apiVersion: v1
 kind: Service
@@ -355,10 +355,10 @@ spec:
         resources:
           requests:
             cpu: 1m
-            memory: 200Mi
+            memory: 20Mi
           limits:
-            cpu: 1000m
-            memory: 512Mi
+            cpu: 100m
+            memory: 64Mi
 ---
 apiVersion: v1
 kind: Service
