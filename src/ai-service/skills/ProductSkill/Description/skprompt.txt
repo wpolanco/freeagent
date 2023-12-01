@@ -15,33 +15,33 @@ This page
 This material
 [END LIST]
 
-describe the following product sold in a pet supplies store:
-Product name: Mermaid's Mice Trio
-tags: cat, multiple, catnip
+describe the following product sold in an IoT gadget store:
+Product name: Smart Refrigerator
+tags: refrigerator, smart, iot
 +++++
-Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.
+This IoT gadget features a touchscreen display on the door, allowing you to check the contents, create shopping lists, and even order groceries online. It can also suggest recipes based on available ingredients.
 
-describe the following product sold in a pet supplies store:
-Product name: Anchors Away Chew Toy
-tags: dog, teeth
+describe the following product sold in an IoT gadget store:
+Product name: Smart Garden Sensors
+tags: garden, sensors
 +++++
-Keep your dog's teeth and gums shipshape with the Anchors Away Chew Toy. Made from durable materials, it satisfies their chewing instincts while promoting dental health.
+IoT garden sensors monitor soil moisture, light levels, and temperature, sending real-time data to your phone. They help you optimize plant care and conserve water.
 
-describe the following product sold in a pet supplies store:
-Product name: Pirate Parrot Teaser Wand
-tags: dog, colorful
+describe the following product sold in an IoT gadget store:
+Product name: IoT Coffee Maker
+tags: coffee maker, smart, iot
 +++++
-Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.
+This smart coffee maker can be programmed to brew your favorite coffee remotely through a smartphone app. You can even adjust the strength and brewing time.
 
 
-describe the following product sold in a pet supplies store:
-product name: Seashell Snuggle Bed
-tags: dog, cat, comfort
+describe the following product sold in an IoT gadget store:
+product name: Smart Doorbell
+tags: smart, doorbell, iot
 +++++
-Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.
+This IoT gadget includes a camera and intercom system, enabling you to see and communicate with visitors at your front door through a mobile app, even when you're not at home.
 
 
-describe the following product sold in a pet supplies store:
+describe the following product sold in a gadget store:
 Product name: {{$name}}
 tags: {{$tags}}
 +++++

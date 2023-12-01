@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="logo">
-      <a href="/">Mariner Gadget Supplies - Admin Portal</a>
+      <a href="/">Redux Gadget Supplies - Admin Portal</a>
     </div>
     <button class="hamburger" @click="toggleNav">
       <span class="hamburger-icon"></span>

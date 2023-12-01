@@ -1,6 +1,6 @@
 {
     "schema": 1,
-    "description": "Generate description of a pet store supply product",
+    "description": "Generate description of an IoT product",
     "type": "completion",
     "completion": {
       "max_tokens": 1000,
